@@ -1,4 +1,4 @@
-# Hugo Kim — Personal Website
+# Yong Ho (Hugo) Kim — Personal Website
 
 Website: https://hugokim85.github.io/
 
@@ -10,4 +10,8 @@ Edit `index.html` and commit to `main`. GitHub Pages automatically publishes the
 
 `favicon.svg` is the browser icon.
 
-This is an initial personal homepage. Resume information has not yet been supplied; no education, employment, or research claims have been added.
+## Content
+
+The website contains a professional introduction, three career entries, three degrees, three publications, three awards, and six areas of expertise. Content was transcribed and consolidated from the owner's three overlapping resume screenshots. Publication details and career achievements are supplied by the owner.
+
+Public contact links include email, LinkedIn, and GitHub. The source screenshots, personal telephone number, and immigration application details are not published.

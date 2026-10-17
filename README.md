@@ -1,4 +1,4 @@
-# Yong Ho (Hugo) Kim — Personal Website
+# Yongho (Hugo) Kim — Personal Website
 
 Website: https://hugokim85.github.io/
 
@@ -12,6 +12,6 @@ Edit `index.html` and commit to `main`. GitHub Pages automatically publishes the
 
 ## Content
 
-The website contains a professional introduction, three career entries, three degrees, three publications, three awards, and six areas of expertise. Content was transcribed and consolidated from the owner's three overlapping resume screenshots. Publication details and career achievements are supplied by the owner.
+The website contains a professional introduction, three career entries, three degrees, three publications, three awards, and six areas of expertise. Content is based on the owner's resume and subsequent career updates, most recently on October 17, 2026. The expanded profile covers the Global Technology Research Center affiliation, foldable-device lightweighting through Galaxy Z Fold8, ongoing Galaxy Z Fold9 thermal-component development, and FBR-ALD-based quantum-dot durability and new QLED form-factor development. Publication details and career achievements are supplied by the owner. Ongoing development is described separately from completed results.
 
 Public contact links include email, LinkedIn, and GitHub. The source screenshots, personal telephone number, and immigration application details are not published.

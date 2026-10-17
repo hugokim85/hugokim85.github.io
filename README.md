@@ -10,6 +10,8 @@ Edit `index.html` and commit to `main`. GitHub Pages automatically publishes the
 
 `favicon.svg` is the browser icon.
 
+`assets/logos/` contains the company logos used for the career summary, with source credits in its README. Focus areas use a semantic bullet list; the profile card also appears on mobile screens.
+
 ## Content
 
 The website contains a professional introduction, three career entries, three degrees, three publications, three awards, and six areas of expertise. Content is based on the owner's resume and subsequent career updates, most recently on October 17, 2026. The expanded profile covers the Global Technology Research Center affiliation, foldable-device lightweighting through Galaxy Z Fold8, ongoing Galaxy Z Fold9 thermal-component development, and FBR-ALD-based quantum-dot durability and new QLED form-factor development. Publication details and career achievements are supplied by the owner. Ongoing development is described separately from completed results.
